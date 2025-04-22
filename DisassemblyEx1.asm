@@ -13,7 +13,7 @@ int main(int argc, char** argv)  {
 }
  */
 
-// DISASSEMBLY of C CODE ====================================================
+// DISASSEMBLY of C CODE ==================================================
 
 int sub( int x, int y) 
 .text:00000000 _sub:           push    ebp              # store BP (base of stack of calling function) on stack
